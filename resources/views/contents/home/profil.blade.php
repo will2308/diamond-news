@@ -426,7 +426,7 @@
 									<div class="mx-auto">
 										{{ $dagree->links() }}
 									</div>
-								</div
+								</div>
 					      	</div>
 					      	<div class="tab-pane fade" id="src">
 					      		<div>
